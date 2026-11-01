@@ -15,3 +15,12 @@ this page is right now being worked on, if you see this and you are one of my di
 
 ### special credit
 pfp is drawn by @braindeadzy on Discord | GIF Animation is drawn by Pyohato | Natsuki as oc is owned by Pyohato.
+
+
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/csharp" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/zed" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/obsidian" width="64px" />
+<div>
