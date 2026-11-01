@@ -27,9 +27,9 @@ My name is **Loyness**, but you can call me ***Loy*** for short.
 
 ###
 
-<p align="right">
 ### Special Credit
-- PFP drawn by `@braindeadzyn` on Discord 
-- GIF animation drawn by Pyohato 
-- Figma Material Kit for banner items
+<p align="right">
+    - PFP drawn by `@braindeadzyn` on Discord 
+    - GIF animation drawn by Pyohato 
+    - Figma Material Kit for banner items
 </p>
