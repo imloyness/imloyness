@@ -15,11 +15,9 @@ My name is **Loyness**, but you can call me ***Loy***, as for short.
 
 
 ### special credit
-pfp is drawn by @braindeadzy on Discord 
-
-GIF Animation is drawn by Pyohato 
-
-Natsuki as oc is owned by Pyohato.
+- pfp is drawn by @braindeadzy on Discord 
+- GIF Animation is drawn by Pyohato 
+- Natsuki as oc is owned by Pyohato.
 
 
 <div style="display: flex; gap: 2px; align-items: center;">
