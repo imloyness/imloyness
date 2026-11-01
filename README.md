@@ -11,3 +11,7 @@ My name is **Loyness**, but you can call me ***Loy***, as for short.
 ###
 
 this page is right now being worked on, if you see this and you are one of my discord friends type me a dm with "Hello World" in it :D
+
+
+# special credit
+pfp is drawn by @braindeadzy on Discord | GIF Animation is drawn by Pyohato | Natsuki as oc is owned by Pyohato.
