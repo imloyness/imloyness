@@ -31,11 +31,9 @@ My name is **Loyness**, but you can call me ***Loy*** for short.
 <p align="right">
     - PFP drawn by @braindeadzyn on Discord 
 </p>
-
 <p align="right">
     - GIF animation drawn by Pyohato  
 </p>
-
 <p align="right">
     - Figma Material Kit for banner items
 </p>
