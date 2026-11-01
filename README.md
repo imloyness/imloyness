@@ -7,10 +7,11 @@
 My name is **Loyness**, but you can call me ***Loy***, as for short. 
 
 - 💫 - Im a software engineer student, tech enthusiast and sort of designer.
+- 🛠️ - im working on a game, a bepinex plugin and a lot of university works (Im mostly busy because of it)
+- ❤️ - I like Pyohato's artwork and his oc Natsuki from Nebulamancers, i like hot chocolate with marshmallow at winter and sushis
 
 ###
 
-this page is right now being worked on, if you see this and you are one of my discord friends type me a dm with "Hello World" in it :D
 
 
 ### special credit
