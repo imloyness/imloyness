@@ -29,7 +29,7 @@ My name is **Loyness**, but you can call me ***Loy*** for short.
 
 ### Special Credit
 <p align="right">
-    - PFP drawn by `@braindeadzyn` on Discord 
+    - PFP drawn by @braindeadzyn on Discord 
 </p>
 
 <p align="right">
